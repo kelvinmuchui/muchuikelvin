@@ -66,14 +66,14 @@ header{
 /* ================ Medium screen=============== */
 @media screen and (max-width: 1024px){
     header{
-        height:68hv;
+        height:68vh;
     }
 
 }
 /* ================Small screen=============== */
 @media screen and (max-width: 600px){
     header{
-        height:100hv;
+        height:100vh;
     }
     .header__socials,
     .scroll__down{
